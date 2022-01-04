@@ -29,7 +29,7 @@ If you don't have a MariaDB database up and running you can find more informatio
 First, use [git](git-scm.org) (through CLI or a client) to retrieve the code using `git clone`:
 
 ```
-$ git clone https://github.com/mariadb-developers/todo_app_cpp.git
+$ git clone https://github.com/mariadb-developers/todo-app-cpp.git
 ```
 
 ## 3.) Create the database and table <a name="schema"></a>
